@@ -1,6 +1,8 @@
 # Planets
 
-A simple, minimal Python program that uses OpenAI's GPT-3.5 Turbo and DALL-E models to generate text and images for planets. 
+A simple, minimal Python program that uses OpenAI's GPT-3.5 Turbo and DALL-E models to generate text and images for planets.
+
+![Screenshot](Screenshot.png)
 
 ## Dependencies
 
